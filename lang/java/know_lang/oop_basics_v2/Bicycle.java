@@ -1,6 +1,6 @@
 package lang.java.know_lang.oop_basics_v2;
 
-interface Bicycle {
+interface bicycle {
 
      // wheel revolutions per minute
      void changeCadence(int newValue);

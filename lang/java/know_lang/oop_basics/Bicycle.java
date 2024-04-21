@@ -1,6 +1,6 @@
 package lang.java.know_lang.oop_basics;
 
-class Bicycle {
+class bicycle {
 
      int cadence = 0;
      int speed = 0;

@@ -1,6 +1,6 @@
 package lang.java.know_lang.oop_basics;
 
-class MountainBike extends Bicycle {
+class mountain_bike extends bicycle {
 
     void printStates() {
         System.out.println("MountainBike: cadence:" +

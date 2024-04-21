@@ -1,12 +1,12 @@
 package lang.java.know_lang.oop_basics;
 
-class OopBasics {
+class oop_basics {
      public static void main(String[] args) {
 
           // Create two different
           // Bicycle objects
-          Bicycle bike1 = new Bicycle();
-          Bicycle bike2 = new Bicycle();
+          bicycle bike1 = new bicycle();
+          bicycle bike2 = new bicycle();
 
           // Invoke methods on
           // those objects
@@ -24,7 +24,7 @@ class OopBasics {
           bike2.printStates();
 
           // Child
-          MountainBike mbike1 = new MountainBike();
+          mountain_bike mbike1 = new mountain_bike();
           mbike1.changeCadence(50);
           mbike1.speedUp(10);
           mbike1.changeGear(2);

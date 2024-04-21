@@ -1,6 +1,6 @@
 package lang.java.know_lang.oop_basics_v2;
 
-class ACMEBicycle implements Bicycle {
+class acme_bicycle implements bicycle {
 
      int cadence = 0;
      int speed = 0;

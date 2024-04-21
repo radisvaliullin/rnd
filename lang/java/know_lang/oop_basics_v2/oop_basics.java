@@ -1,10 +1,10 @@
 package lang.java.know_lang.oop_basics_v2;
 
-class OopBasics {
+class oop_basics {
      public static void main(String[] args) {
 
           // create instance
-          ACMEBicycle acmebike = new ACMEBicycle();
+          acme_bicycle acmebike = new acme_bicycle();
 
           // set
           acmebike.changeCadence(50);
