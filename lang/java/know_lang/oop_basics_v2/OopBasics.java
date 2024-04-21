@@ -1,6 +1,6 @@
-package lang.java.know_lang.oop_basic_v2;
+package lang.java.know_lang.oop_basics_v2;
 
-class OopBasic {
+class OopBasics {
      public static void main(String[] args) {
 
           // create instance

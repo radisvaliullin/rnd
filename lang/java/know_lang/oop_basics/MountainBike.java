@@ -1,4 +1,4 @@
-package lang.java.know_lang.oop_basic;
+package lang.java.know_lang.oop_basics;
 
 class MountainBike extends Bicycle {
 

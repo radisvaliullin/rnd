@@ -1,4 +1,4 @@
-package lang.java.know_lang.oop_basic_v2;
+package lang.java.know_lang.oop_basics_v2;
 
 class ACMEBicycle implements Bicycle {
 

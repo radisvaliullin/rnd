@@ -1,6 +1,6 @@
-package lang.java.know_lang.oop_basic;
+package lang.java.know_lang.oop_basics;
 
-class OopBasic {
+class OopBasics {
      public static void main(String[] args) {
 
           // Create two different
