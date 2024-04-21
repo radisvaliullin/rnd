@@ -1,4 +1,4 @@
-package no_jdk_classes;
+package lang.java.get_started.no_jdk_classes;
 
 import org.apache.commons.lang3.RandomUtils;
 

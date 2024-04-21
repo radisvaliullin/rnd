@@ -1,4 +1,4 @@
-package multi_classes_file;
+package lang.java.get_started.multi_classes_file;
 
 public class multi_classes_file {
     public static void main(String[] args) {

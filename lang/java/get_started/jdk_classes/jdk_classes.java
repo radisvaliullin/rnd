@@ -1,4 +1,4 @@
-package jdk_classes;
+package lang.java.get_started.jdk_classes;
 
 import java.util.Scanner;
 import java.util.regex.MatchResult;

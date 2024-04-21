@@ -1,4 +1,4 @@
-package hello_world_v2;
+package lang.java.get_started.hello_world_v2;
 
 import java.util.Arrays;
 
